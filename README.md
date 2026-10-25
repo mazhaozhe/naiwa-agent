@@ -1,4 +1,4 @@
-# GeneralTaskAgent · 奶蛙 Agent
+# 奶蛙 Agent（naiwa-agent）
 
 > 基于 **LangChain 1.x + ReAct** 的通用任务型 Agent——同一套后端，两种形态：
 >
